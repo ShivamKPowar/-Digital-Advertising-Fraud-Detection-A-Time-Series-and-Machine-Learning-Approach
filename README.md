@@ -106,8 +106,8 @@ The dataset contains **hourly & daily aggregated ad traffic logs** for **six app
 ![XGBoost](https://github.com/ShivamKPowar/-Digital-Advertising-Fraud-Detection-A-Time-Series-and-Machine-Learning-Approach/blob/main/XGBoost%20Tree.png)
 
 ### 🔥 Feature Importance (IVT Signature)
-| Rank | Feature | Importance |
-|-------|----------|------------|
+| Rank | Feature Importance |
+|-------|----------|
 | 🥇 **unique_uas** | 0.56 |
 | 🥈 **requests_per_idfa** | 0.17 |
 | 🥉 **idfa_ua_ratio** | Significant |
