@@ -65,7 +65,7 @@ The dataset contains **hourly & daily aggregated ad traffic logs** for **six app
 ### 1️⃣ Feature Distribution Comparison
 📌 **Fraud shows abnormal ratio spikes**
 
-![Feature Distribution](http://github.com/ShivamKPowar/-Digital-Advertising-Fraud-Detection-A-Time-Series-and-Machine-Learning-Approach/blob/main/Feature%20Distribution%20Comparison.png)
+![Feature Distribution](https://github.com/ShivamKPowar/-Digital-Advertising-Fraud-Detection-A-Time-Series-and-Machine-Learning-Approach/blob/main/Feature%20Distribution%20Comparison.png)
 
 **Key Signals of IVT:**
 - **idfa_ua_ratio** → too many devices share same UA → **device spoofing**
